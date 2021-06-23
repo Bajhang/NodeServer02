@@ -17,6 +17,11 @@ app.get('/data1',(req,res)=>{
     res.send(info);
 })
 
+app.get('/deepak',(req,res)=>{
+   
+    res.send("info");
+})
+
 app.get('/data', async ( req, res ) => {
     try {
 
