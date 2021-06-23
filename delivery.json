@@ -1,0 +1,29 @@
+{
+    "deliveries": [
+    {
+      "planeOrderId": "1",
+      "soNumber": "2",
+      "poNumber": "1244",
+      "certification": "Testing Certification",
+      "billingCompany": "DeepakNepal",
+      "billingAddress": "KTM, Nepal",
+      "deliverycompany": "DeepakUSA",
+      "deliveryAddress": "Brea, California, USA",
+      "contact": "9841690134",
+      "shipThrough": "Aircraft",
+      "shippingInstructions": "Ok  chha ta",
+      "incoterms": "drop down with the 11 options provided by Josie from imports/exports",
+      "notes": "liability end location",
+      "carrier_Account_Number": "123456",
+      "customerRequestedODD_CROTD": "12-12-2021",
+      "lineFitODDD": "13-12-2021",
+      "contactDate_ZOTD": "14-12-2021",
+      "tailNumber": "5",
+      "msnNumber": "5",
+      "airCraftType": "Aircraft",
+      "svt": "SVT ",
+      "doa_poa": "doa_poa",
+      "movingMapConfiguration": "movingMapConfiguration"
+    }
+  ] 
+}

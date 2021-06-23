@@ -1,0 +1,29 @@
+{
+  "deliveries": [{
+    "id": 3,
+    "companycontactid": 1,
+    "companyid": 111,
+    "companyname": "Yoyo",
+    "contactname": "Deepak",
+    "contactrole": "Mgmt",
+    "phone": "98234423",
+    "extension": "2131",
+    "email": "xyz@gmail.com",
+    "emailundeliverable": true,
+    "surveyoptout": true
+  },
+  {
+    "id": 4,
+    "companycontactid": 2,
+    "companyid": 111,
+    "companyname": "Falano",
+    "contactname": "Sabal",
+    "contactrole": "mgmt",
+    "phone": "23431231",
+    "extension": "1231",
+    "email": "abc@gmail.com",
+    "emailundeliverable": true,
+    "surveyoptout": false
+  }
+    ]
+}
